@@ -1,8 +1,10 @@
+
+> This repository contains the submission for Hack In India 2020.
+
 <p align="center">
  <img  src="https://github.com/sanket9006/Hack-In-India/blob/master/222.png">
 </p>
 
-> This repository contains the submission for Hack In India 2020.
 ## <p align="center"> Hack In India 2020 </p>
 ## <p align="center"> Whole Source Code (Project) is at  </p>
 
