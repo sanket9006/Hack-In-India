@@ -12,7 +12,7 @@
 
 
 
-     <img  src="https://drive.google.com/file/d/19HWrLlyLBFpROQ48K8Lk_Sw74hWYMt16/view?usp=sharing">
+    https://drive.google.com/file/d/19HWrLlyLBFpROQ48K8Lk_Sw74hWYMt16/view?usp=sharing
 
 
 
