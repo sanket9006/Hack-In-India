@@ -12,8 +12,6 @@
 
 
 
-222.png
-
 
 **Login UI Made using Firebase**
 
