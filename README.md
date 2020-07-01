@@ -15,14 +15,11 @@
 
 ## <p align="center"> Flowchart of our Project</p>
 
-
-**Flowchart of our Project**
-
 <p align="center">
  <img  src="https://github.com/sanket9006/Hack-In-India/blob/master/sad.png">
 </p>
 
-**Login UI Made using Firebase (Working on it ; Not done yet)**
+## <p align="center"> Login UI Made using Firebase </p>
 
 <p align="center">
  <img  src="https://github.com/sanket9006/Hack-In-India/blob/master/dddddddddd.png">
