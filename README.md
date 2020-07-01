@@ -1,5 +1,5 @@
 <p align="center">
- <img  src="https://github.com/sanket9006/Hack-In-India/222.png">
+ <img  src="https://github.com/sanket9006/Hack-In-India/blob/master/222.png">
 </p>
 
 > This repository contains the submission for Hack In India 2020.
