@@ -7,6 +7,19 @@
  <img  src="https://github.com/sanket9006/Hack-In-India/blob/master/222.png">
 </p>
 
+## <p align="center"> We have made two apps for these Competition </p>
+
+    1. Using Echo AR
+    2. Using Unity, Sketchfab, Blender, Visual Studio, Firebase
+    
+    
+## <p align="center"> 1. Using Echo AR </p>
+ 
+
+
+## <p align="center">  2. Using Unity, Sketchfab, Blender, Visual Studio, Firebase </p>
+
+
 > https://drive.google.com/file/d/19HWrLlyLBFpROQ48K8Lk_Sw74hWYMt16/view?usp=sharing
 
 ## <p align="center"> Whole Source Code (Project) is at link given above </p>
