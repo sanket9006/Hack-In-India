@@ -9,7 +9,7 @@
 
 ## <p align="center"> We have made two apps for these Competition </p>
 
-    1. Using Echo AR
+    1. Using Echo AR (Browser based)
     2. Using Unity, Sketchfab, Blender, Visual Studio, Firebase
     
     
